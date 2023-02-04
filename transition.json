@@ -1,0 +1,75 @@
+
+{
+	"events": [{
+		"start_date": {
+			"year": "2017",
+			"month": "8"
+		},
+		"media": {
+			"url": "https://i.ibb.co/ZMmZ3w5/download-1.png",
+			"credit": "Sutherland Global Services"
+		},
+		"text": {
+			"headline": "@SGS",
+			"text": "Started my carrier as Customer Service Associate(CSA)- AMAZON-US"
+		}
+	}, {
+		"start_date": {
+			"year": "2019",
+			"month": "8"
+		},
+		"media": {
+			"url": "https://i.ibb.co/sP5Vxvv/download.jpg",
+			"credit": "Techversant Infotech"
+		},
+		"text": {
+			"headline": "@Techversant Infotech",
+			"text": "<p>New journey started as Software Engineer(AI/ML) and  Collaborated with 7+ AI driven solutions/products.<p>"
+		}
+	}, {
+		"start_date": {
+			"year": "2019",
+			"month": "1",
+			"day": "12"
+		},
+		"media": {
+			"url": "https://i.ibb.co/rtHgdPP/test3.png",
+			"credit": "ExpertzLab Technologies"
+		},
+		"text": {
+			"headline": "Intern- Data Engineer",
+			"text": "Certification for Big Data - NACTEC "
+		}
+	},
+		{
+			"start_date": {
+			"year": "2022",
+			"month": "10",
+			"day": "1"
+		},
+		"media": {
+			"url": "https://i.ibb.co/cJntd58/test5.png",
+			"credit": "Coursera"
+		},
+		"text": {
+			"headline": "RASA- chatbots",
+			"text": "Completed three courses from Coursera for Rasa chatbots. and developed a resort booking chatbot(Reso) using RASA framework."
+		}
+		},
+			{
+			"start_date": {
+			"year": "2023",
+			"month": "1",
+			"day": "2"
+		},
+		"media": {
+			"url": "https://i.ibb.co/86FDXJv/6.jpg",
+			"credit": "Cognicor Technologies"
+		},
+		"text": {
+			"headline": "Machine Learning Engineer",
+			"text": "After a fulfilling 3.5 years, I moved on to a new adventure at Cognicor Technologies."
+		}
+		}
+	]
+}

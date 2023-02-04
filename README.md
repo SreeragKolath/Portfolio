@@ -2,8 +2,11 @@
 
 Created my portfolio using 'Streamlit' Library of Python which includes general information, profile links and other informations.
 
-# Requirements
+# Required Packages
 
-streamlit==1.12.0
-pip install streamlit-timeline
+!pip install streamlit
+!pip install streamlit-timeline
 
+# Run the app in Terminal
+
+**streamlit run main.py**

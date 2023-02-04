@@ -6,7 +6,7 @@ Created my portfolio using 'Streamlit' Library of Python which includes general 
 
 - **pdf/** : personal resume available for downloading on portfolio
 - **main.py**: Run streamlit
-- transition.json : Json file used by streamlit_timeline for career snapshot
+- **transition.json** : Json file used by streamlit_timeline for career snapshot
 
 # Required Packages
 
